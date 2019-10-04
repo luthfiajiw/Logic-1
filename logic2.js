@@ -205,3 +205,5 @@ const soal8 = () => {
 }
 
 soal8();
+
+//Buat Hacktoberfest Mas
